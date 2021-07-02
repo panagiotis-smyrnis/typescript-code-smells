@@ -37,4 +37,6 @@ TypeScript/node_modules/
 TypeScript/dist/
 TypeScript/package-lock.json
 
+node_modules/
+
 */.idea/*
